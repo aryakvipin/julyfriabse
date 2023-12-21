@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111199753745",
+    "project_id": "julyfirbase",
+    "storage_bucket": "julyfirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111199753745:android:a11bed9fa5008cd23b43b0",
+        "android_client_info": {
+          "package_name": "com.example.julyfriabse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnO6KS3wjh2RAlNVUFfDyQIf0PjBByfhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
